@@ -9,6 +9,8 @@ We take pride in fully meeting the requirements for "ADC modulation and demodula
      <img src="https://img.shields.io/badge/Link_Report-808080?style=for-the-badge&logoColor=white" target="_blank" /> 
 </div>
 
+Matlab Version: R2016a 
+
 ## How the System Works
 
 https://github.com/user-attachments/assets/1de7112b-d077-4bc2-9216-d66f3e682195
